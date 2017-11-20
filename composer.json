@@ -15,5 +15,12 @@
 			"type": "git",
 			"url": "git@github.com:ipokos/phpquery.git"
 		}
-	]
+	],
+	"extra": {
+		"installer-types": ["library"],
+		"installer-paths": {
+			"lib/internal/": ["lib/internal/"]
+			//"path/to/libraries/{$name}/": ["type:library"]
+		}
+	}
 }
