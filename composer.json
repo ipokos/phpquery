@@ -19,7 +19,7 @@
 	"extra": {
 		"installer-types": ["library"],
 		"installer-paths": {
-			"lib/internal/": ["phpQuery"]
+			"lib/internal/": ["ipokos/phpquery"]
 			//"path/to/libraries/{$name}/": ["type:library"]
 		}
 	}
