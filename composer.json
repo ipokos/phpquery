@@ -19,7 +19,7 @@
 	"extra": {
 		"installer-types": ["library"],
 		"installer-paths": {
-			"lib/internal/": ["lib/internal/"]
+			"lib/internal/": ["phpQuery"]
 			//"path/to/libraries/{$name}/": ["type:library"]
 		}
 	}
